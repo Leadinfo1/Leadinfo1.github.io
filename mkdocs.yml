@@ -1,0 +1,10 @@
+site_name: Technical documentation
+nav:
+  - Home: 'index.md'
+  - Requirements: 'requirements.md'
+  - How it works: 'howitworks.md'
+  - Installation: 'installation.md'
+  - Configuration: 'configuration.md'
+  - Upgrading: 'upgrading.md'
+  - Technical: 'technical.md'
+  - Troubleshooting: 'troubleshooting.md'
