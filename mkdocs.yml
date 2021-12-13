@@ -8,4 +8,11 @@ nav:
   - Upgrading: 'upgrading.md'
   - Technical: 'technical.md'
   - Troubleshooting: 'troubleshooting.md'
-theme: material
+theme:
+  name: material
+  palette:
+    primary: 'teal'
+    accent: 'teal'
+  favicon: 'images/favicon.ico'
+site_description: Lime eSign Documentation
+site_author: Lime Technologies AB
