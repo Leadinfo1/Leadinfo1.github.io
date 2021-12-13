@@ -8,3 +8,4 @@ nav:
   - Upgrading: 'upgrading.md'
   - Technical: 'technical.md'
   - Troubleshooting: 'troubleshooting.md'
+theme: material
