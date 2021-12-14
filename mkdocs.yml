@@ -1,4 +1,4 @@
-site_name: Technical documentation
+site_name: Leaddinfo – Lime CRM Documentation
 nav:
   - Home: 'index.md'
   - Requirements: 'requirements.md'
@@ -14,5 +14,5 @@ theme:
     primary: 'teal'
     accent: 'teal'
   favicon: 'images/favicon.ico'
-site_description: Lime eSign Documentation
-site_author: Lime Technologies AB
+site_description: Leaddinfo – Lime CRM Documentation
+site_author: Leadinfo
