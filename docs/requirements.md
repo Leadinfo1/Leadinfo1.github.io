@@ -1,3 +1,2 @@
 #Requirements
-- Cloud
-- Lime CRM Web Client
+- Lime REST API
